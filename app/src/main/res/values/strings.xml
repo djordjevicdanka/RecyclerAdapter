@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="android_games">Android games</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+
+</resources>
